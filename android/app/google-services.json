@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655617923108",
+    "project_id": "card-854fb",
+    "storage_bucket": "card-854fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655617923108:android:128e190b6157a969e7e0b1",
+        "android_client_info": {
+          "package_name": "com.major.card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655617923108-s5bom1r1qd1qbr62u1kqhi9m0k8u5l35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFvfX9nF9WFtmkl7-iAfc7afbsQKGkHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655617923108-s5bom1r1qd1qbr62u1kqhi9m0k8u5l35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
